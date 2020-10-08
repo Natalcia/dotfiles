@@ -1,0 +1,37 @@
+:root {
+  --dark-bg: #1f1f1f;
+  --light-bg: #ffe5eb;
+  --dark-font: #ffffff;
+  --light-font: #444444;
+}
+
+@media (prefers-color-scheme: dark) {
+  @-moz-document url-prefix(about:newtab) {
+    body {
+      background-color: var(--dark-bg) !important;
+    }
+    .title {
+     color: var(--dark-font) !important;
+    }
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  @-moz-document url-prefix(about:newtab) {
+    body {
+      background-color: var(--light-bg) !important;
+    }
+    .title {
+     color: var(--light-font) !important;
+    }
+  }
+}
+
+@-moz-document url-prefix(about:newtab) {
+  body {
+    transition: 0.5s;
+  }
+  .title {
+   transition: 0.5s;
+  }
+}

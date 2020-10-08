@@ -1,0 +1,10 @@
+[Unit]
+Description=Change the GTK theme daily at a given time.
+
+[Timer]
+OnCalendar=*-*-* 19..23:*:00
+OnCalendar=*-*-* 00..06:*:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

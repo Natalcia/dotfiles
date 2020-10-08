@@ -1,0 +1,10 @@
+[Unit]
+Description=Change the GTK theme to dark mode.
+After=graphical.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/sh -c 'xfconf-query -c xfwm4 -p /general/theme -s "WhiteSur-light" && xfconf-query -c xsettings -p /Net/ThemeName -s "WhiteSur-light" && xfconf-query -c xsettings -p /Net/IconThemeName -s "WhiteSur"'
+
+[Install]
+WantedBy=default.target
