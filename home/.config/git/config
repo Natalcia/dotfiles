@@ -1,0 +1,13 @@
+[user]
+	name = Morelcia
+	email = nat@nekopon.pl
+	signingkey = 9FD1C76959BEA2AA
+[core]
+	editor = nano
+[commit]
+	gpgsign = true
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

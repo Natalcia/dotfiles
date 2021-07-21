@@ -1,0 +1,13 @@
+Section "Module"
+    Load           "modesetting"
+EndSection
+
+Section "Device"
+    Identifier     "Device0"
+    BusID          "2:0:0"
+    Driver         "modesetting"
+    Option         "AllowEmptyInitialConfiguration"
+    Option         "AllowExternalGpus" "True"
+    Option         "DRI" "3"
+    Option "TearFree" "true"
+EndSection

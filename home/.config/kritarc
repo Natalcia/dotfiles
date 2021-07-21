@@ -1,0 +1,552 @@
+AlsoSaveAsKra=false
+ArtColorSel.ColorSpace=0
+ArtColorSel.InversedSaturation=false
+ArtColorSel.Light=0.9257811229530177
+ArtColorSel.LightPieces=11
+ArtColorSel.NumRings=7
+ArtColorSel.RingPieces=12
+ArtColorSel.SelColorH=0.11596651836641571
+ArtColorSel.SelColorS=0.6623489576292823
+ArtColorSel.SelColorX=0.9257811229530177
+ArtColorSel.defaultHueSteps=12
+ArtColorSel.defaultSaturationSteps=7
+ArtColorSel.defaultValueScaleSteps=11
+ArtColorSel.enforceGamutMask=false
+ArtColorSel.lumaB=0.0722
+ArtColorSel.lumaG=0.7152
+ArtColorSel.lumaGamma=2.2
+ArtColorSel.lumaR=0.2126
+ArtColorSel.showBgColor=true
+ArtColorSel.showValueScale=false
+BackgroundColorForNewImage=255,255,255
+BackgroundOpacityForNewImage=255
+BackgroundStyleForNewImage=0
+CanvasOnlyActive=false
+ExportConfiguration-image/jpeg=<!DOCTYPE params>\n<params>\n <param name="baseline" type="internal">true</param>\n <param name="exif" type="internal">true</param>\n <param name="filters" type="string"><![CDATA[]]></param>\n <param name="forceSRGB" type="internal">false</param>\n <param name="iptc" type="internal">true</param>\n <param name="optimize" type="internal">true</param>\n <param name="progressive" type="internal">false</param>\n <param name="quality" type="internal">95</param>\n <param name="saveProfile" type="internal">true</param>\n <param name="smoothing" type="internal">0</param>\n <param name="storeAuthor" type="internal">false</param>\n <param name="storeMetaData" type="internal">false</param>\n <param name="subsampling" type="internal">0</param>\n <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>\n<color>\n <RGB r="1" b="1" space="sRGB-elle-V2-g10.icc" g="1"/>\n</color>\n]]></param>\n <param name="xmp" type="internal">true</param>\n</params>\n
+ExportConfiguration-image/png=<!DOCTYPE params>\n<params>\n <param type="internal" name="alpha">true</param>\n <param type="internal" name="compression">9</param>\n <param type="internal" name="forceSRGB">true</param>\n <param type="internal" name="indexed">false</param>\n <param type="internal" name="interlaced">false</param>\n <param type="internal" name="saveAsHDR">false</param>\n <param type="internal" name="saveSRGBProfile">false</param>\n <param type="internal" name="storeAuthor">false</param>\n <param type="internal" name="storeMetaData">false</param>\n <param type="color" name="transparencyFillcolor"><![CDATA[<!DOCTYPE color>\n<color>\n <RGB space="sRGB-elle-V2-g10.icc" g="1" r="1" b="1"/>\n</color>\n]]></param>\n</params>\n
+ExportConfiguration-image/webp=<!DOCTYPE params>\n<params>\n <param name="quality" type="internal">100</param>\n</params>\n
+FilterSelector/LastUsedFilter=hsvadjustment
+GamutMasks.viewMode=0
+Krita/Ocio/DisplayDevice=sRGB
+Krita/Ocio/DisplayLook=None
+Krita/Ocio/DisplayView=Raw
+Krita/Ocio/InputColorSpace=raw
+Krita/Ocio/OcioColorManagementMode=0
+Krita/Ocio/OcioConfigPath=
+Krita/Ocio/OcioLockColorVisualRepresentation=false
+Krita/Ocio/OcioLutPath=
+Krita/Ocio/UseOcio=false
+LastBackGroundColor=<!DOCTYPE LastBackGroundColor>\n<LastBackGroundColor>\n <RGB space="sRGB-elle-V2-srgbtrc.icc" g="1" r="1" b="1"/>\n</LastBackGroundColor>\n
+LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB space="sRGB-elle-V2-srgbtrc.icc" g="0.925490200519562" r="0.976470589637756" b="0.792156875133514"/>\n</LastForeGroundColor>\n
+LastPreset=u)_Pixel_Art
+LineSmoothingDelayDistance=50
+LineSmoothingDistance=50
+LineSmoothingFinishStabilizedCurve=true
+LineSmoothingScalableDistance=true
+LineSmoothingSmoothPressure=false
+LineSmoothingStabilizeSensors=true
+LineSmoothingTailAggressiveness=0.15
+LineSmoothingType=1
+LineSmoothingUseDelayDistance=true
+NumberOfLayersForNewImage=1
+PinnedFonts=Cantarell,FreeSans,FiraCode Nerd Font Mono
+SpecificColorSelector/UsePercentage=false
+baseLength=60
+canvasState=OPENGL_SUCCESS
+colorDepthDef=U8
+colorModelDef=RGBA
+colorProfileDef=sRGB-elle-V2-srgbtrc.icc
+defaultPalette=Default
+filterdialog/rememberlastpreset=false
+globalSnapBoundingBox=false
+globalSnapExtension=false
+globalSnapImageBounds=true
+globalSnapImageCenter=true
+globalSnapIntersection=false
+globalSnapNode=false
+globalSnapOrthogonal=false
+globalSnapToPixel=false
+gridmaincolor=99,99,99
+gridmainstyle=0
+gridsubdivisioncolor=150,150,150
+gridsubdivisionstyle=1
+guidesColor=99,99,99
+guidesLineStyle=0
+imageHeightDef=686
+imageResolutionDef=100
+imageWidthDef=686
+imagesizedlg_imsizeunit=px
+imagesizedlg_printSizeSeparatly=false
+imagesizedlg_ratioLock=true
+imagesizedlg_resunit=Pixels/Inch
+imagesizedlg_sizeunit=in
+internal_selector_active_color_set=Concept-cookie
+layersizedlg_heightunit=px
+layersizedlg_keepar=true
+layersizedlg_keepprop=true
+layersizedlg_widthunit=px
+levelOfDetailEnabled=false
+logviewer_enabled=false
+moveToolChangedValueX=378
+moveToolChangedValueY=522
+moveToolUnit=0
+numberOfOnionSkins=10
+oninSkinTintColorForward=0,255,0
+onionSkinOpacity_-1=173
+onionSkinOpacity_-10=22
+onionSkinOpacity_-2=163
+onionSkinOpacity_-3=147
+onionSkinOpacity_-4=130
+onionSkinOpacity_-5=107
+onionSkinOpacity_-6=86
+onionSkinOpacity_-7=66
+onionSkinOpacity_-8=48
+onionSkinOpacity_-9=35
+onionSkinOpacity_0=178
+onionSkinOpacity_1=173
+onionSkinOpacity_10=22
+onionSkinOpacity_2=163
+onionSkinOpacity_3=147
+onionSkinOpacity_4=130
+onionSkinOpacity_5=107
+onionSkinOpacity_6=86
+onionSkinOpacity_7=66
+onionSkinOpacity_8=48
+onionSkinOpacity_9=35
+onionSkinState_-1=true
+onionSkinState_-10=false
+onionSkinState_-2=true
+onionSkinState_-3=false
+onionSkinState_-4=false
+onionSkinState_-5=false
+onionSkinState_-6=false
+onionSkinState_-7=false
+onionSkinState_-8=false
+onionSkinState_-9=false
+onionSkinState_0=true
+onionSkinState_1=true
+onionSkinState_10=false
+onionSkinState_2=true
+onionSkinState_3=false
+onionSkinState_4=false
+onionSkinState_5=false
+onionSkinState_6=false
+onionSkinState_7=false
+onionSkinState_8=false
+onionSkinState_9=false
+onionSkinTintColorBackward=255,0,0
+onionSkinTintFactor=191
+presethistory=u)_Pixel_Art,b)_Airbrush_Soft
+scratchpadVisible=true
+showAdditionalOnionSkinsSettings=true
+showFilterGallery=false
+toolbarslider_1=opacity
+toolbarslider_2=size
+toolbarslider_3=flow
+toolbarslider_4=flow
+
+[GradientChooser]
+global/itemSize=medium
+global/itemSizeCustom=32
+global/viewMode=icon
+
+[KisToolCrop]
+allowGrow=false
+decoration=1
+growCenter=false
+
+[KisToolSelectBase]
+antiAliasSelection=false
+
+[KisToolSelectContiguous]
+feather=0
+fuzziness=13
+sizemod=1
+
+[KisToolSelectElliptical]
+roundCornersX=0
+roundCornersY=0
+
+[KisToolSelectRectangular]
+roundCornersX=0
+roundCornersY=0
+
+[KisToolSelectSimilar]
+fuzziness=1
+
+[KritaFill/KisToolFill]
+featherAmount=0
+growSelection=0
+patternRotate=0
+patternScale=100
+thresholdAmount=80
+
+[KritaShape/KisToolRectangle]
+outlineType=1
+patternTransformRotation=0
+patternTransformScale=100
+roundCornersX=0
+roundCornersY=0
+
+[MainWindow]
+DVI-D-0 Height 1050=989
+DVI-D-0 Width 1680=1680
+DVI-D-0 Window-Maximized 1680x1050=true
+DVI-D-1 Height 1680x1050=989
+DVI-D-1 Width 1680x1050=1680
+DVI-D-1 Window-Maximized 1680x1050=true
+LVDS1 Height 1366x768=716
+LVDS1 Height 768=735
+LVDS1 Width 1366=1362
+LVDS1 Width 1366x768=1366
+XWAYLAND0 Height 1366x768=746
+XWAYLAND0 Height 1680x1050=990
+XWAYLAND0 Width 1366x768=1365
+XWAYLAND0 Width 1680x1050=1680
+XWAYLAND0 Window-Maximized 1680x1050=true
+ko_geometry=AdnQywADAAAAAAAAAAAAGwAABo8AAAQZAAAAAAAAAD0AAAaPAAAEGQAAAAACAAAABpAAAAAAAAAAPQAABo8AAAQZ
+
+[MainWindow][DockWidget AnimationCurvesDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=421
+width=448
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget AnimationDocker]
+Collapsed=false
+DockArea=8
+Locked=false
+height=160
+width=280
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget ArrangeDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=426
+width=303
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget ArtisticColorSelector]
+Collapsed=false
+DockArea=2
+Locked=false
+height=284
+width=334
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget ChannelDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget ColorSelectorNg]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget CompositionDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=300
+width=400
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget DigitalMixer]
+Collapsed=false
+DockArea=2
+Locked=false
+height=30
+width=100
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget GamutMask]
+Collapsed=false
+DockArea=2
+Locked=false
+height=322
+width=363
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget GridDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=527
+width=258
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget HistogramDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget History]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget KisLayerBox]
+Collapsed=false
+DockArea=2
+Locked=false
+height=238
+width=262
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget LogDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=260
+width=400
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget LutDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=286
+width=357
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget OnionSkinsDocker]
+Collapsed=false
+DockArea=8
+Locked=false
+height=282
+width=336
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget OverviewDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget PaletteDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=422
+width=647
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget PatternDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=308
+width=256
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget PresetDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=162
+width=262
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget PresetHistory]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget SmallColorSelector]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget Snapshot]
+Collapsed=false
+DockArea=2
+Locked=false
+height=154
+width=262
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget SpecificColorSelector]
+Collapsed=false
+DockArea=2
+Locked=false
+height=207
+width=268
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget SvgSymbolCollectionDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget TasksetDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=300
+width=400
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget TimelineDocker]
+Collapsed=false
+DockArea=8
+Locked=false
+height=30
+width=100
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget ToolBox]
+Collapsed=false
+DockArea=1
+Locked=false
+height=879
+width=52
+xPosition=0
+yPosition=16
+
+[MainWindow][DockWidget TouchDocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=0
+width=0
+xPosition=0
+yPosition=0
+
+[MainWindow][DockWidget comics_project_manager_docker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget lastdocumentsdocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget quick_settings_docker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=461
+width=640
+xPosition=0
+yPosition=19
+
+[MainWindow][DockWidget sharedtooldocker]
+Collapsed=false
+DockArea=2
+Locked=false
+height=169
+width=262
+xPosition=0
+yPosition=19
+
+[SvgSymbolCollection]
+currentCollection=0
+
+[TemplateChooserDialog]
+DetailsPaneSplitterSizes=316,227
+LastReturnType=Custom Document
+
+[advancedColorSelector]
+gamma=2.2
+lumaG=0.7152
+lumaR=0.2126
+showColorSelector=true
+
+[crashprevention]
+CreatingCanvas=false
+
+[filterdialog]
+showPreview=true
+
+[gaussian blur_filter_bookmarks]
+Last Used=<!DOCTYPE params>\n<params version="1">\n <param type="internal" name="horizRadius">241.8</param>\n <param type="internal" name="lockAspect">true</param>\n <param type="internal" name="vertRadius">241.8</param>\n</params>\n
+
+[hsvadjustment_filter_bookmarks]
+Last Used=<!DOCTYPE params>\n<params version="0">\n <param name="colorize" type="internal">false</param>\n <param name="compatibilityMode" type="internal">false</param>\n <param name="h" type="internal">0</param>\n <param name="s" type="internal">0</param>\n <param name="type" type="internal">3</param>\n <param name="v" type="internal">20</param>\n</params>\n
+
+[krita]
+ColorSpaceExtensionsPlugins=\\0
+ColorSpaceExtensionsPluginsDisabled=
+ColorSpacePlugins=\\0
+ColorSpacePluginsDisabled=
+DockerPlugins=,,,,,,,,,,,,,,,,,,,,,,,,
+DockerPluginsDisabled=
+FlakePlugins=,
+FlakePluginsDisabled=
+ShapePlugins=,
+ShapePluginsDisabled=
+ToolPlugins=,,,,,,,,,,,,
+ToolPluginsDisabled=
+
+[oilpaint_filter_bookmarks]
+Last Used=<!DOCTYPE params>\n<params version="1">\n <param name="brushSize" type="internal">1</param>\n <param name="smooth" type="internal">40</param>\n</params>\n
+
+[theme]
+Theme=Krita darker
+
+[tool_color_picker]
+ColorPickerDefaultActivation=<!DOCTYPE params>\n<params>\n <param type="internal" name="addPalette">false</param>\n <param type="internal" name="blend">100</param>\n <param type="internal" name="normaliseValues">false</param>\n <param type="internal" name="radius">1</param>\n <param type="internal" name="sampleMerged">true</param>\n <param type="internal" name="toForegroundColor">true</param>\n <param type="internal" name="updateColor">true</param>\n</params>\n

@@ -1,0 +1,4 @@
+#!/bin/bash
+pushd /home/$USER/.local/share/monero/
+monero-wallet-cli --daemon-address node.moneroworld.com:18089 --wallet-file nat
+popd

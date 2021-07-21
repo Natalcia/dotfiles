@@ -1,0 +1,5 @@
+#!/bin/bash
+hdparm -B 127 /dev/sdb
+fsck -a /dev/mapper/weedbanger
+mount /mnt/weedbanger/
+

@@ -1,0 +1,24 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/mapper/cryptroot LABEL=apricot
+UUID=e16ae954-8e27-4243-a9d6-6e9ce28a2f30	/         	btrfs     	rw,noatime,compress=zstd:3,ssd,space_cache,commit=120,subvolid=256,subvol=@	0 1
+
+# /dev/sda2 LABEL=BOOT
+UUID=38061479-bb2c-4bf8-ae36-20188306474b	/boot     	ext4      	rw,noatime	0 2
+
+# /dev/sda1 LABEL=EFI
+UUID=6F58-8867      	/boot/efi 	vfat      	rw,noatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/mapper/cryptroot LABEL=apricot
+UUID=e16ae954-8e27-4243-a9d6-6e9ce28a2f30	/home     	btrfs     	rw,noatime,compress=zstd:3,ssd,space_cache,commit=120,subvolid=257,subvol=@home	0 0
+
+# /dev/mapper/cryptroot LABEL=apricot
+UUID=e16ae954-8e27-4243-a9d6-6e9ce28a2f30	/snapshots	btrfs     	rw,noatime,compress=zstd:3,ssd,space_cache,commit=120,subvolid=258,subvol=@snapshots	0 0
+
+# /dev/mapper/cryptroot LABEL=apricot
+UUID=e16ae954-8e27-4243-a9d6-6e9ce28a2f30	/var/log  	btrfs     	rw,noatime,compress=zstd:3,ssd,space_cache,commit=120,subvolid=259,subvol=@var_log	0 0
+
+# nyan
+UUID=d33701e3-0e42-472f-9326-ea93a3d79f1a /mnt/weedbanger ext4 defaults 0 2
